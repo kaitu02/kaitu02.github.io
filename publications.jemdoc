@@ -3,44 +3,54 @@
 
 == Journals
 
-- [https://link.springer.com/article/10.1007/s11075-021-01172-z Inertial-type incremental constraint projection method for solving variational inequalities without Lipschitz continuity] \n 
-Wanyu Wang, Fu-quan Xia, *Kai Tu*\n
-Numerical Algorithms, 2021, https://doi.org/10.1007/s11075-021-01172-z
+- [https://link.springer.com/article/10.1007/s11075-021-01172-z Inertial-type incremental constraint projection method for solving variational inequalities without Lipschitz continuity].  
+\n 
+Wanyu Wang, Fu-quan Xia and *Kai Tu*.\n
+Numerical Algorithms, 2022,  89: 1769–1798.
 
 
-- [https://link.springer.com/article/10.1007/s10898-019-00828-4 A hybrid Bregman alternating direction method of multipliers for the linearly constrained difference-of-convex problems] \n 
-*Kai Tu*, Haibin Zhang, Huan Gao and Junkai Feng \n
+- [https://link.springer.com/article/10.1007/s10898-019-00828-4 A hybrid Bregman alternating direction method of multipliers for the linearly constrained difference-of-convex problems].
+\n
+ *Kai Tu*, Haibin Zhang, Huan Gao and Junkai Feng. 
+ \n
 Journal of Global Optimization, 2020, 76: 665-693.
 
 
-- [https://www.tandfonline.com/doi/full/10.1080/10556788.2017.1414814?casa_token=RgAN-_bnWeIAAAAA%3AbeI66ImiSOkj0Fnhw0TftdxdKJFG4VRHrQOOt2zbw9CtgZ6ljbhZNu86oSjYS1eZaIoDkXAA9NXx1xM A new alternating projection-based prediction–correction method for structured variational inequalities] \n 
-*Kai Tu*, Haibin Zhang and Fu-quan Xia\n
+- [https://www.tandfonline.com/doi/full/10.1080/10556788.2017.1414814?casa_token=RgAN-_bnWeIAAAAA%3AbeI66ImiSOkj0Fnhw0TftdxdKJFG4VRHrQOOt2zbw9CtgZ6ljbhZNu86oSjYS1eZaIoDkXAA9NXx1xM A new alternating projection-based prediction–correction method for structured variational inequalities].
+\n 
+*Kai Tu*, Haibin Zhang and Fu-quan Xia. \n
 Optimization Methods and Software, 2020, 76: 665-693.
 
 
 
-- [http://www.yokohamapublishers.jp/online2/jncav21-5.html Stochastic proximal difference-of-convex algorithm with SPIDER for a class of nonconvex nonsmooth regularized problems] \n 
-*Kai Tu*, Haibin Zhang, Huan Gao  \n
+- [http://www.yokohamapublishers.jp/online2/jncav21-5.html Stochastic proximal difference-of-convex algorithm with SPIDER for a class of nonconvex nonsmooth regularized problems].
+\n
+*Kai Tu*, Haibin Zhang, Huan Gao. 
+\n
 Journal of Nonlinear and Convex Analysis, 2020, 1191-1208.
  
 
  
 
 
-- [https://link.springer.com/article/10.1007%2Fs10898-017-0567-0 Optimality analysis on partial L1-minimization recovery] \n 
-Huan Gao, Haibin Zhang, Zhibao Li and *Kai Tu* \n
+-  [https://link.springer.com/article/10.1007%2Fs10898-017-0567-0 Optimality analysis on partial L1-minimization recovery].
+\n 
+Huan Gao, Haibin Zhang, Zhibao Li and *Kai Tu*. \n
 Journal of Global Optimization, 2019, 34: 707-730.
 
 
-- [https://www.tandfonline.com/doi/full/10.1080/00036811.2014.1002190 An iterative algorithm for solving generalized variational inequality problems and fixed point problems] \n 
-*Kai Tu*, Fu-quan Xia and Jen-Chih Yao\n
+- [https://www.tandfonline.com/doi/full/10.1080/00036811.2014.1002190 An iterative algorithm for solving generalized variational inequality problems and fixed point problems].
+\n
+*Kai Tu*, Fu-quan Xia and Jen-Chih Yao.  \n
 Applicable Analysis, 2016, 95: 209-225.
 
 
 
 
-- [https://www.sciencedirect.com/science/article/abs/pii/S0252960216300947 A projection-type algorithm for solving generalized mixed variational inequalities] \n 
-*Kai Tu*  and Fu-quan Xia\n
+- [https://www.sciencedirect.com/science/article/abs/pii/S0252960216300947 A projection-type algorithm for solving generalized mixed variational inequalities].
+\n 
+*Kai Tu*  and Fu-quan Xia. 
+\n
 Acta Mathematica Scientia, 2016, 36: 1919-1630.
 
 
@@ -51,19 +61,27 @@ Acta Mathematica Scientia, 2016, 36: 1919-1630.
  == Preprints
 
 
-- [https://arxiv.org/pdf/2206.13090.pdf Variance Reduced Random Relaxed Projection Method for Constrained Finite-sum Minimization Problems ] \n
-Zhichun Yang, Fu-quan Xia, *Kai Tu* and Man-Chung Yue \n
-Submitted, 2022.
+-  [https://arxiv.org/pdf/2206.13090.pdf Variance Reduced Random Relaxed Projection Method for Constrained Finite-sum Minimization Problems ].
+\n
+Zhichun Yang, Fu-quan Xia, *Kai Tu* and Man-Chung Yue.
+\n Submitted, 2022.
 
 
-- Variance reduced moving balls approximation method for smooth constrained minimization problems\n
-Zhichun Yang, Fu-quan Xỉa and *Kai Tu*\n
+-  Variance reduced moving balls approximation method for smooth constrained minimization problems.
+\n 
+Zhichun Yang, Fu-quan Xỉa and *Kai Tu*.
+\n
 Submitted, 2023.
 
-- Convergence analysis of the DFP algorithm for unconstrained optimization problems on Riemannian manifolds\n
-Xiaobo Li, *Kai Tu* and Jian Lu\n
+-  Convergence analysis of the DFP algorithm for unconstrained optimization problems on Riemannian manifolds.
+\n Xiaobo Li, *Kai Tu* and Jian Lu.
+\n
 Submitted, 2023.
  
+-  Nonlocal Low Rank Regularization Method for Fractal Image Coding under Salt-and-Pepper Noise.
+\n Huan Pan, Zhengyu Liang, Jian Lu, *Kai Tu* and Ning Xie.
+\n
+Submitted, 2023.
  
 
 
