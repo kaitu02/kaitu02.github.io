@@ -3,6 +3,8 @@
 
 == Journals
 
+\n
+
 - [https://link.springer.com/article/10.1007/s11075-021-01172-z Inertial-type incremental constraint projection method for solving variational inequalities without Lipschitz continuity].  
 \n 
 Wanyu Wang, Fu-quan Xia and *Kai Tu*.\n
@@ -25,7 +27,7 @@ Optimization Methods and Software, 2020, 76: 665-693.
 
 - [http://www.yokohamapublishers.jp/online2/jncav21-5.html Stochastic proximal difference-of-convex algorithm with SPIDER for a class of nonconvex nonsmooth regularized problems].
 \n
-*Kai Tu*, Haibin Zhang, Huan Gao. 
+*Kai Tu*, Haibin Zhang and Huan Gao. 
 \n
 Journal of Nonlinear and Convex Analysis, 2020, 1191-1208.
  
@@ -55,11 +57,9 @@ Acta Mathematica Scientia, 2016, 36: 1919-1630.
 
 
 
-
-
-
  == Preprints
 
+\n
 
 -  [https://arxiv.org/pdf/2206.13090.pdf Variance Reduced Random Relaxed Projection Method for Constrained Finite-sum Minimization Problems ].
 \n
