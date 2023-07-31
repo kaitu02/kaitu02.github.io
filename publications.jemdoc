@@ -6,22 +6,26 @@
 
 \n
 
--  Variance reduced moving balls approximation method for smooth constrained minimization problems.
-\n 
-Zhichun Yang, Fu-quan Xỉa and *Kai Tu*.
-\n
-Accepted in Optimization Letters, 2023.
-
 
 - Nonlocal Low Rank Regularization Method for Fractal Image Coding under Salt-and-Pepper Noise.
-\n Huan Pan, Zhengyu Liang, Jian Lu, *Kai Tu* and Ning Xie.
+\n 
+Huan Pan, Zhengyu Liang, Jian Lu, *Kai Tu* and Ning Xie.
 \n
 Accepted in Fractals, 2023.
 
 
+-  [https://doi.org/10.1007/s11590-023-02049-x Variance reduced moving balls approximation method for smooth constrained minimization problems]
+\n 
+Zhichun Yang, Fu-quan Xỉa and *Kai Tu*.
+\n
+Optimization Letters, 2023, https://doi.org/10.1007/s11590-023-02049-x
+
+
+
 - [https://link.springer.com/article/10.1007/s11075-021-01172-z Inertial-type incremental constraint projection method for solving variational inequalities without Lipschitz continuity].  
 \n 
-Wanyu Wang, Fu-quan Xia and *Kai Tu*.\n
+Wanyu Wang, Fu-quan Xia and *Kai Tu*.
+\n
 Numerical Algorithms, 2022,  89: 1769–1798.
 
 
