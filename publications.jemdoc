@@ -3,21 +3,33 @@
 
 == Journals
 
-
  \n
 
-- The generalized conditional gradient method for composite multiobjective optimization problems on Riemannian manifolds
+-  [https://arxiv.org/pdf/2206.13090.pdf Variance Reduced Random Relaxed Projection Method for Constrained Finite-sum Minimization Problems].
+\n
+Zhichun Yang, Fu-quan Xia, *Kai Tu* and Man-Chung Yue.
+\n  Accepted for publication in IEEE Transactions on Signal Processing, 2024.
+
+ 
+-  [https://doi.org/10.1007/s11590-024-02103-2 Convergence analysis of the DFP algorithm for unconstrained optimization problems on Riemannian manifolds].
+\n Xiaobo Li, *Kai Tu* and Jian Lu.
+\n
+ Optimization Letters, 2024, https://doi.org/10.1007/s11590-024-02103-2
+
+
+
+- [https://jnva.biemdas.com/archives/2074 The generalized conditional gradient method for composite multiobjective optimization problems on Riemannian manifolds].
 \n
 Xiaobo Li, Xiaochun Ge and *Kai Tu*,
 \n
 Journal of Nonlinear and Variational Analysis, 2023, 7(5):839-857.
 
 
-- [https://doi.org/10.1142/S0218348X23500767 Nonlocal Low Rank Regularization Method for Fractal Image Coding under Salt-and-Pepper Noise]
+- [https://doi.org/10.1142/S0218348X23500767 Nonlocal Low Rank Regularization Method for Fractal Image Coding under Salt-and-Pepper Noise].
 \n 
 Huan Pan, Zhengyu Liang, Jian Lu, *Kai Tu* and Ning Xie.
 \n
- Fractals, 2023,  31(7), 16 pages,  https:///dx.doi.org/10.1142/S0218348X23500767 
+ Fractals, 2023,  31(7), 16 pages. 
 
 
 -  [https://doi.org/10.1007/s11590-023-02049-x Variance reduced moving balls approximation method for smooth constrained minimization problems]
@@ -56,8 +68,6 @@ Optimization Methods and Software, 2020, 76: 665-693.
 Journal of Nonlinear and Convex Analysis, 2020, 1191-1208.
  
 
- 
-
 
 -  [https://link.springer.com/article/10.1007%2Fs10898-017-0567-0 Optimality analysis on partial L1-minimization recovery].
 \n 
@@ -84,20 +94,6 @@ Acta Mathematica Scientia, 2016, 36: 1919-1630.
  == Preprints
 
 \n
-
--  [https://arxiv.org/pdf/2206.13090.pdf Variance Reduced Random Relaxed Projection Method for Constrained Finite-sum Minimization Problems ].
-\n
-Zhichun Yang, Fu-quan Xia, *Kai Tu* and Man-Chung Yue.
-\n Submitted, 2022.
-
-
-
--  Convergence analysis of the DFP algorithm for unconstrained optimization problems on Riemannian manifolds.
-\n Xiaobo Li, *Kai Tu* and Jian Lu.
-\n
-Submitted, 2023.
-
-
  
 - An improved random projection type algorithm for the
 multiple-sets split feasibility problem.
@@ -105,6 +101,9 @@ multiple-sets split feasibility problem.
 \n
 Submitted, 2023.
  
+- [https://arxiv.org/pdf/2404.05377.pdf A Max-Min-Max Algorithm for Large-Scale Robust Optimization]
+\n *Kai Tu*, Zhi Chen, Man-Chung Yue.
+\n Submitted, 2024.
 
 
 
