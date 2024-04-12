@@ -1,6 +1,26 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 
 
+
+ == Preprints
+
+\n
+- [https://arxiv.org/pdf/2404.05377.pdf A Max-Min-Max Algorithm for Large-Scale Robust Optimization]
+\n *Kai Tu*, Zhi Chen, Man-Chung Yue.
+\n Submitted, 2024.
+
+
+\n
+ 
+- An improved random projection type algorithm for the
+multiple-sets split feasibility problem.
+\n Chao-Jing Chao, Fu-Quan Xỉa, *Kai Tu* and Jian Lu.
+\n
+Submitted, 2023.
+ 
+
+
+
 == Journals
 
  \n
@@ -91,19 +111,6 @@ Acta Mathematica Scientia, 2016, 36: 1919-1630.
 
 
 
- == Preprints
-
-\n
- 
-- An improved random projection type algorithm for the
-multiple-sets split feasibility problem.
-\n Chao-Jing Chao, Fu-Quan Xỉa, *Kai Tu* and Jian Lu.
-\n
-Submitted, 2023.
- 
-- [https://arxiv.org/pdf/2404.05377.pdf A Max-Min-Max Algorithm for Large-Scale Robust Optimization]
-\n *Kai Tu*, Zhi Chen, Man-Chung Yue.
-\n Submitted, 2024.
 
 
 
