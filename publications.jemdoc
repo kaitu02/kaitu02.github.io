@@ -14,7 +14,7 @@
 multiple-sets split feasibility problem.
 \n Chao-Jing Chao, Fu-Quan Xỉa, *Kai Tu* and Jian Lu.
 \n
-Submitted, 2023.
+Submitted , 2023.
  
 
 
@@ -23,10 +23,16 @@ Submitted, 2023.
 
  \n
 
+
 -  [https://arxiv.org/pdf/2206.13090.pdf Variance Reduced Random Relaxed Projection Method for Constrained Finite-sum Minimization Problems].
 \n
 Zhichun Yang, Fu-quan Xia, *Kai Tu* and Man-Chung Yue.
-\n  Accepted for publication in IEEE Transactions on Signal Processing, 2024.
+\n    IEEE Transactions on Signal Processing, 2024, 72:2188-2203.
+
+
+-  [https://ieeexplore.ieee.org/document/10731563  Fixed-Point Convergence of Multi-Block PnP ADMM and Its Application to Hyperspectral Image Restoration]. 
+\n Weijie Liang, Zhihui Tu, Jian Lu, Kai Tu, Michael K. Ng, Chen Xu. 
+\n IEEE Transactions on Computational Imaging, 2024, 10: 1571-1587.
 
  
 -  [https://doi.org/10.1007/s11590-024-02103-2 Convergence analysis of the DFP algorithm for unconstrained optimization problems on Riemannian manifolds].
